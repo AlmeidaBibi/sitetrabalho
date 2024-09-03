@@ -1,0 +1,112 @@
+.title {
+   font-family: 'Silkscreen', cursive;
+   font-size: 50px;
+   color: rgb(255, 172, 234);
+   text-align: center;
+
+
+
+
+
+}
+.main
+{ 
+ 
+   display: flex;
+   justify-content: center;
+   align-items:center ;
+  
+  
+   
+   height: 73vh;
+   width: 183.0vh;
+   border-radius: 30px;
+   
+}
+
+* {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1058.cur), auto !important;} 
+  
+   
+.list{
+   
+   color: rgb(255, 172, 234);
+   text-align: center;
+   align-content: center;
+}
+
+.form{
+   
+   color: rgb(255, 172, 234);
+   text-align: center;
+   align-content: center;
+  
+   margin: 40px;
+}
+.aside{
+   border-color: blanchedalmond;
+   text-align: center;
+   
+   
+}
+
+.text{
+  
+   font-family: 'Silkscreen', cursive;
+   font-size: 20px;
+   color: rgb(255, 172, 234);
+   text-align: center;
+   align-content: center;
+}
+
+
+
+.text3{
+   font-family: 'Silkscreen', cursive;
+   margin-top: 30px;
+   font-size: 20px;
+   align-content: center;
+   text-align: center;
+}
+.text6{
+ 
+  align-content:center ;
+  text-align: center;
+}
+
+.button{
+   font-family: 'Silkscreen', cursive;
+   font-size: 20px;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   align-content: center;
+   justify-content: center;
+   margin-left: 250px;
+   margin-top: 100px;
+   background-color: rgb(255, 172, 234);
+   border-radius: 30px;
+   border-color: rgb(255, 132, 224);
+}
+
+.element4{
+   display: inline;
+ justify-self: center;
+   height: 10vh;
+   width: 30vh;
+   border-style: solid;
+   border-color: rgb(255, 172, 234);
+    margin-top: 40vh;
+   margin-left: 20vh;
+   
+}
+
+.footer{
+  
+   margin-left: 81.5vh;
+   height: 10vh;
+   width: 20vh;
+   border-radius: 30px;
+   background-color: rgb(255, 172, 234);
+   align-content: center;
+   align-items: center;
+   
+}
